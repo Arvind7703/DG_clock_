@@ -49,6 +49,8 @@
 
 }
 
+/* Time space stylings */
+
 .clock span::after {
 
     font-size: 17px;
@@ -77,6 +79,8 @@
 #milsec {
     margin-left: 10px;
 }
+
+/* Mobile device responsive */
 
 @media (max-width : 768px) {
     .clock {
